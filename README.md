@@ -14,7 +14,10 @@ c)And by the tenth year, that number rises to 80%
 a)The outbreak of the COVID-19 pandemic has devastated businesses worldwide. These businesses include restaurants, theme parks as well as shopping malls. Prolonged lockdown and safe-distancing measures drastically decreased the foot traffic and revenue of these businesses, forcing them to shut down or pivot.
 
 
+
 <img src='./screenshot/map.jpg' />
+
+<img src='./screenshot/proto.jpg' />
 
 ## Solution
 
@@ -32,14 +35,14 @@ a)These NFTs can be in the form of vouchers from retail businesses such as resta
 
 b)This serves as a marketing tool for businesses to drive foot traffic while promoting health and wellness.
 
-<img src='./screenshot/locationpng' />
+<img src='./screenshot/location.png' />
 
 <img src='./screenshot/voucher.png' />
 
-<img src='./screenshot/cart.png' />
 
 
-<img src='./screenshot/celologo.png' />
+
+<img src='./screenshot/celo1.jpg' />
 
 ## Why Celo
 
@@ -47,11 +50,21 @@ Celo is one of the most viable blockchain available in the market. First-generat
 
 On the other hand, Tezos is a third-generation blockchain that combines the former’s properties and has evolved to solve this issue.
 
+<img src='./screenshot/index.png' />
 
 
 ## Why FileCoin
 
 Storing all the data on Blockchain is not viable solution. Filecoin is a open-source decentralized storage network . Filecoin is universally compatible with any data storage . It can retrieve data off of a centralized provider, a local computer or decentralized storage protocols
 
+<img src='./screenshot/cart.png' />
 
 
+## How to Install 
+1) Download the apk file [MAPX](https://drive.google.com/file/d/1oZIDC3V8pG8D8A7y5_JGBiM-BtyT7iOl/view?usp=sharing) https://drive.google.com/file/d/1oZIDC3V8pG8D8A7y5_JGBiM-BtyT7iOl/view?usp=sharing and install in your android phone 
+
+2) Catch all the NFTs
+
+<img src='./screenshot/proto1.jpg' />
+
+## Special thanks to Web3athon and Celo Team for their support 
