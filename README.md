@@ -53,9 +53,7 @@ On the other hand, Tezos is a third-generation blockchain that combines the form
 <img src='./screenshot/index.png' />
 
 
-## Why FileCoin
 
-Storing all the data on Blockchain is not viable solution. Filecoin is a open-source decentralized storage network . Filecoin is universally compatible with any data storage . It can retrieve data off of a centralized provider, a local computer or decentralized storage protocols
 
 <img src='./screenshot/cart.png' />
 
@@ -67,4 +65,4 @@ Storing all the data on Blockchain is not viable solution. Filecoin is a open-so
 
 <img src='./screenshot/proto1.jpg' />
 
-## Special thanks to Web3athon and Celo Team for their support 
+## Special thanks to Celo Team for their support 
