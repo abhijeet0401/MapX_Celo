@@ -50,7 +50,7 @@ Celo is one of the most viable blockchain available in the market. First-generat
 
 On the other hand, Tezos is a third-generation blockchain that combines the former’s properties and has evolved to solve this issue.
 
-<img src='./screenshot/index.png' />
+
 
 
 
